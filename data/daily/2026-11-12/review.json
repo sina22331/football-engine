@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-12",
+  "n_matches": 6,
+  "hit_rate": 0.8333,
+  "hits": 5,
+  "source_brier": {
+    "model": 0.2881,
+    "market": 0.3107,
+    "djyy": null,
+    "final": 0.2728
+  },
+  "by_league": {
+    "欧国联": {
+      "n": 6,
+      "hit_rate": 0.8333,
+      "wilson_lower": 0.4365,
+      "avg_brier": 0.2728
+    }
+  },
+  "by_confidence_tier": {
+    "high": {
+      "n": 4,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.5101,
+      "avg_brier": 0.1203
+    },
+    "mid": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.5777
+    }
+  },
+  "by_odds_band": {
+    "L2 热(1.5-1.8)": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.3253
+    },
+    "L4 冷(2.2-3.0)": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7821
+    },
+    "L1 大热(<1.5)": {
+      "n": 3,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.4385,
+      "avg_brier": 0.0679
+    }
+  },
+  "score_stats": {
+    "top1": 0,
+    "top3": 1,
+    "top5": 5,
+    "top8": 6,
+    "any": 6
+  },
+  "score_rank_hist": {
+    "4": 2,
+    "5": 2,
+    "7": 1,
+    "2": 1
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 6,
+      "hits": 5
+    }
+  },
+  "market_signal_stats": {
+    "n": 5,
+    "hits": 2
+  },
+  "layered": {
+    "log_loss_final": 0.5375,
+    "rps_final": 0.0784,
+    "rps_market": 0.0872,
+    "goal_framework": {
+      "n": 6,
+      "hits": 5
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 1,
+        "hit_rate": 0.0
+      },
+      "50-60%": {
+        "n": 2,
+        "hit_rate": 1.0
+      },
+      "60%+": {
+        "n": 3,
+        "hit_rate": 1.0
+      }
+    },
+    "freshness_groups": {
+      "watch": {
+        "n": 6,
+        "hit_rate": 0.8333
+      }
+    }
+  },
+  "biases": [],
+  "total_pnl": 0.0,
+  "generated_at": "2026-11-12T22:53:07.199849",
+  "sha256": "384ab697e8f4dac24f343a360b649193"
+}

@@ -9,13 +9,13 @@
     "last_match_date": "2026-09-29"
   },
   "克罗地亚": {
-    "elo": 1808.8,
-    "attack": 1.1023,
-    "defense": 0.8648,
-    "form": -0.3585,
+    "elo": 1802.2,
+    "attack": 1.03,
+    "defense": 0.8509,
+    "form": -0.5509,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-06"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "智利": {
     "elo": 1657.5,
@@ -36,13 +36,13 @@
     "last_match_date": "2026-09-29"
   },
   "西班牙": {
-    "elo": 2152.7,
-    "attack": 1.3653,
-    "defense": 0.4118,
-    "form": 0.813,
+    "elo": 2156.2,
+    "attack": 1.3026,
+    "defense": 0.3716,
+    "form": 0.8691,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-06"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "荷兰": {
     "elo": 1940.8,
@@ -108,13 +108,13 @@
     "last_match_date": "2026-09-28"
   },
   "英格兰": {
-    "elo": 1978.8,
-    "attack": 1.328,
-    "defense": 0.4779,
-    "form": 0.3991,
+    "elo": 1985.4,
+    "attack": 1.2689,
+    "defense": 0.4665,
+    "form": 0.5794,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-06"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "意大利": {
     "elo": 1827.5,
@@ -270,13 +270,13 @@
     "last_match_date": "2026-10-06"
   },
   "比利时": {
-    "elo": 1910.5,
-    "attack": 1.4099,
-    "defense": 0.7016,
-    "form": -0.3281,
+    "elo": 1920.3,
+    "attack": 1.3428,
+    "defense": 0.6684,
+    "form": 0.0703,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-05"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "阿尔及利亚": {
     "elo": 1820.9,
@@ -2745,13 +2745,13 @@
     "last_match_date": "2026-10-06"
   },
   "捷克": {
-    "elo": 1610.2,
-    "attack": 0.9964,
-    "defense": 0.8934,
-    "form": -0.7378,
+    "elo": 1606.7,
+    "attack": 0.8993,
+    "defense": 0.8767,
+    "form": -0.8165,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-06"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "摩洛哥": {
     "elo": 1962.8,
@@ -2790,13 +2790,13 @@
     "last_match_date": "2026-09-27"
   },
   "土耳其": {
-    "elo": 1703.2,
-    "attack": 1.0842,
-    "defense": 0.9636,
-    "form": -0.5743,
+    "elo": 1693.4,
+    "attack": 1.0137,
+    "defense": 0.94,
+    "form": -0.702,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-05"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "尼加拉瓜": {
     "elo": 1284.3,
@@ -2844,13 +2844,13 @@
     "last_match_date": null
   },
   "塞浦路斯": {
-    "elo": 1237.7,
-    "attack": 0.4692,
-    "defense": 1.4897,
-    "form": -0.1298,
+    "elo": 1242.0,
+    "attack": 0.4586,
+    "defense": 1.3796,
+    "form": -0.0909,
     "injury": 0.0,
-    "rest_days": 10,
-    "last_match_date": "2026-10-05"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "瑞典": {
     "elo": 1712.0,
@@ -3096,13 +3096,13 @@
     "last_match_date": "2026-10-05"
   },
   "亚美尼亚": {
-    "elo": 1268.6,
-    "attack": 0.5123,
-    "defense": 1.5625,
-    "form": -0.3547,
+    "elo": 1264.3,
+    "attack": 0.4975,
+    "defense": 1.4453,
+    "form": -0.2483,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-05"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "阿尔巴尼": {
     "elo": 1518.8,
@@ -3150,13 +3150,13 @@
     "last_match_date": "2026-10-06"
   },
   "芬兰": {
-    "elo": 1455.9,
-    "attack": 0.8388,
-    "defense": 1.1903,
-    "form": -0.4261,
+    "elo": 1435.9,
+    "attack": 0.757,
+    "defense": 1.1446,
+    "form": -0.5983,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": null
+    "last_match_date": "2026-11-12"
   },
   "新西兰": {
     "elo": 1483.3,
@@ -3537,13 +3537,13 @@
     "last_match_date": null
   },
   "拉脱维亚": {
-    "elo": 1150.1,
-    "attack": 0.2981,
-    "defense": 1.4446,
-    "form": -0.8717,
+    "elo": 1144.9,
+    "attack": 0.3042,
+    "defense": 1.3741,
+    "form": -0.9102,
     "injury": 0.0,
-    "rest_days": 10,
-    "last_match_date": "2026-10-05"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "哈萨克斯坦": {
     "elo": 1347.8,
@@ -3627,13 +3627,13 @@
     "last_match_date": null
   },
   "黑山": {
-    "elo": 1370.9,
-    "attack": 0.6164,
-    "defense": 1.1683,
-    "form": 0.1428,
+    "elo": 1376.1,
+    "attack": 0.6267,
+    "defense": 1.0896,
+    "form": 0.4,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-05"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "圣基茨和尼维斯": {
     "elo": 1229.7,
@@ -13054,6 +13054,15 @@
     "attack": 0.9377,
     "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-12"
+  },
+  "阿尔巴尼亚": {
+    "elo": 1520.0,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-11-12"
