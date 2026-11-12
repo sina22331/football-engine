@@ -5886,13 +5886,13 @@
     "last_match_date": "2026-11-11"
   },
   "全北现代": {
-    "elo": 1549.7,
-    "attack": 0.4766,
-    "defense": 0.453,
-    "form": -0.4126,
+    "elo": 1529.9,
+    "attack": 0.5005,
+    "defense": 0.5144,
+    "form": -0.5888,
     "injury": 0.0,
-    "rest_days": 12,
-    "last_match_date": "2026-11-08"
+    "rest_days": 1,
+    "last_match_date": "2026-11-09"
   },
   "马姆洛迪": {
     "elo": 1453.9,
@@ -6759,13 +6759,13 @@
     "last_match_date": null
   },
   "蔚山HD": {
-    "elo": 1727.2,
-    "attack": 0.9341,
-    "defense": 0.4888,
-    "form": 0.9954,
+    "elo": 1736.4,
+    "attack": 0.9134,
+    "defense": 0.4763,
+    "form": 0.9968,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-11-08"
+    "rest_days": 1,
+    "last_match_date": "2026-11-09"
   },
   "罗德兹": {
     "elo": 1389.3,
@@ -7281,13 +7281,13 @@
     "last_match_date": "2026-10-17"
   },
   "首尔FC": {
-    "elo": 1504.5,
-    "attack": 0.5569,
-    "defense": 0.6249,
-    "form": -0.4982,
+    "elo": 1495.3,
+    "attack": 0.5378,
+    "defense": 0.6343,
+    "form": -0.6487,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-11-08"
+    "rest_days": 1,
+    "last_match_date": "2026-11-09"
   },
   "安养FC": {
     "elo": 1423.7,
@@ -7398,13 +7398,13 @@
     "last_match_date": "2026-10-24"
   },
   "江原FC": {
-    "elo": 1400.6,
-    "attack": 0.4083,
-    "defense": 0.5775,
-    "form": 0.0602,
+    "elo": 1420.4,
+    "attack": 0.474,
+    "defense": 0.5916,
+    "form": 0.3421,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-11-08"
+    "rest_days": 1,
+    "last_match_date": "2026-11-09"
   },
   "大田市民": {
     "elo": 1455.2,
@@ -12285,13 +12285,13 @@
     "last_match_date": "2026-10-15"
   },
   "隆迪那": {
-    "elo": 1503.0,
-    "attack": 0.9729,
-    "defense": 0.9729,
-    "form": 0.0,
+    "elo": 1515.9,
+    "attack": 0.9484,
+    "defense": 0.9132,
+    "form": 0.3,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-10-15"
+    "rest_days": 14,
+    "last_match_date": "2026-11-12"
   },
   "波希米亚1905": {
     "elo": 1513.0,
@@ -13048,5 +13048,14 @@
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-11-11"
+  },
+  "累西腓航海": {
+    "elo": 1487.1,
+    "attack": 0.9377,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-12"
   }
 }
