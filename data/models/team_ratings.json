@@ -3024,13 +3024,13 @@
     "last_match_date": null
   },
   "巴拉圭": {
-    "elo": 1717.0,
-    "attack": 0.7302,
-    "defense": 0.8042,
-    "form": -0.2278,
+    "elo": 1726.1,
+    "attack": 0.7997,
+    "defense": 0.761,
+    "form": 0.1405,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": null
+    "last_match_date": "2026-11-13"
   },
   "利比亚": {
     "elo": 1362.3,
@@ -4320,13 +4320,13 @@
     "last_match_date": null
   },
   "新加坡": {
-    "elo": 1288.6,
-    "attack": 0.5666,
-    "defense": 1.8001,
-    "form": -0.9615,
+    "elo": 1279.5,
+    "attack": 0.5465,
+    "defense": 1.7653,
+    "form": -0.973,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": null
+    "last_match_date": "2026-11-13"
   },
   "缅甸": {
     "elo": 1351.5,
@@ -12276,22 +12276,22 @@
     "last_match_date": "2026-10-15"
   },
   "巴西竞技": {
-    "elo": 1497.0,
-    "attack": 0.9729,
-    "defense": 0.9729,
+    "elo": 1500.1,
+    "attack": 0.9484,
+    "defense": 0.9484,
     "form": 0.0,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-10-15"
+    "rest_days": 14,
+    "last_match_date": "2026-11-13"
   },
   "隆迪那": {
-    "elo": 1515.9,
-    "attack": 0.9484,
-    "defense": 0.9132,
-    "form": 0.3,
+    "elo": 1527.7,
+    "attack": 0.9263,
+    "defense": 0.8593,
+    "form": 0.51,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-11-12"
+    "rest_days": 1,
+    "last_match_date": "2026-11-13"
   },
   "波希米亚1905": {
     "elo": 1513.0,
@@ -13050,13 +13050,13 @@
     "last_match_date": "2026-11-11"
   },
   "累西腓航海": {
-    "elo": 1487.1,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1475.3,
+    "attack": 0.8815,
+    "defense": 0.9484,
+    "form": -0.51,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-11-12"
+    "rest_days": 1,
+    "last_match_date": "2026-11-13"
   },
   "阿尔巴尼亚": {
     "elo": 1520.0,
@@ -13066,5 +13066,32 @@
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-11-12"
+  },
+  "庞特普雷塔": {
+    "elo": 1465.9,
+    "attack": 0.9025,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-13"
+  },
+  "欧帕尔利奥": {
+    "elo": 1534.1,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-13"
+  },
+  "圣贝纳多": {
+    "elo": 1496.9,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-13"
   }
 }
