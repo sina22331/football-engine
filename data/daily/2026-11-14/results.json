@@ -1,6 +1,6 @@
 [
   {
-    "match_id": "周六001",
+    "match_id": "2026-11-14_19719616",
     "home_score": 2,
     "away_score": 0,
     "home_team": "湘南海洋",
@@ -18,7 +18,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六003",
+    "match_id": "3867487",
     "home_score": 3,
     "away_score": 2,
     "home_team": "日本",
@@ -27,7 +27,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "周六004",
+    "match_id": "3879191",
     "home_score": 2,
     "away_score": 0,
     "home_team": "中国",
@@ -36,7 +36,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3752141",
+    "match_id": "2026-11-14_19719617",
     "home_score": 2,
     "away_score": 1,
     "home_team": "RB大宫松鼠",
@@ -45,7 +45,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六005",
+    "match_id": "3748162",
     "home_score": 4,
     "away_score": 2,
     "home_team": "布雷达",
@@ -54,7 +54,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "周六006",
+    "match_id": "3704040",
     "home_score": 0,
     "away_score": 2,
     "home_team": "格鲁吉亚",
@@ -63,7 +63,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六007",
+    "match_id": "3704037",
     "home_score": 3,
     "away_score": 1,
     "home_team": "挪威",
@@ -72,7 +72,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六008",
+    "match_id": "3748168",
     "home_score": 3,
     "away_score": 1,
     "home_team": "罗达JC",
@@ -81,7 +81,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "周六009",
+    "match_id": "3748171",
     "home_score": 4,
     "away_score": 0,
     "home_team": "瓦尔韦克",
@@ -99,7 +99,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六011",
+    "match_id": "3704048",
     "home_score": 1,
     "away_score": 0,
     "home_team": "奥地利",
@@ -108,7 +108,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六012",
+    "match_id": "3704043",
     "home_score": 3,
     "away_score": 2,
     "home_team": "瑞典",
@@ -117,7 +117,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六013",
+    "match_id": "3704046",
     "home_score": 2,
     "away_score": 1,
     "home_team": "罗马尼亚",
@@ -126,7 +126,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "周六014",
+    "match_id": "3704039",
     "home_score": 1,
     "away_score": 4,
     "home_team": "葡萄牙",
@@ -146,7 +146,7 @@
     "status": "完赛"
   },
   {
-    "match_id": "周六015",
+    "match_id": "2026-11-14_19621735",
     "home_team": "米拉索尔",
     "away_team": "米竞技",
     "home_score": 0,
@@ -168,12 +168,300 @@
     "status": "完赛"
   },
   {
-    "match_id": "3632630",
+    "match_id": "2026-11-14_19621870",
     "home_score": 0,
     "away_score": 2,
     "home_team": "沙佩科恩斯",
     "away_team": "瓦斯科达伽马",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "2026-11-14_19667067",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "庞特普雷塔",
+    "away_team": "欧帕尔利奥",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667066",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "圣贝纳多",
+    "away_team": "巴西竞技",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744984",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "莱加内斯",
+    "away_team": "布尔戈斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719611",
+    "home_score": 1,
+    "away_score": 6,
+    "home_team": "大分三神",
+    "away_team": "枥木市FC",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719613",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "藤枝MYFC",
+    "away_team": "甲府风林",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719615",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "新潟天鹅",
+    "away_team": "特格瓦嘉洛",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19730190",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "利维贝雷",
+    "away_team": "切尔诺夫策布科维纳",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744979",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "皇家巴利亚多利德",
+    "away_team": "卡斯迪隆",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19728159",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "维冈竞技",
+    "away_team": "巴恩斯利",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19728160",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "斯托克港",
+    "away_team": "雷丁",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19728162",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "谢周三",
+    "away_team": "普利茅斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19728164",
+    "home_score": 6,
+    "away_score": 2,
+    "home_team": "米尔顿凯恩斯",
+    "away_team": "伯顿",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19728169",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "AFC温布尔登",
+    "away_team": "布莱克浦",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744981",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "皇家社会B队",
+    "away_team": "希洪竞技",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744983",
+    "home_score": 3,
+    "away_score": 3,
+    "home_team": "马洛卡",
+    "away_team": "科尔多瓦",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744988",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "阿尔梅里亚",
+    "away_team": "安道尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667058",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "尤文图德",
+    "away_team": "博塔弗戈SP",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667059",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "雷加塔斯巴西",
+    "away_team": "塞阿拉",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667060",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "累西腓体育",
+    "away_team": "戈伊亚斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667061",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "克里丘马",
+    "away_team": "诺瓦里桑蒂诺",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667062",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "戈亚尼亚竞技",
+    "away_team": "库亚巴",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667063",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "福塔雷萨",
+    "away_team": "维拉诺瓦",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19667065",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "米内罗美洲",
+    "away_team": "奥瓦",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744982",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "皇家奥维耶多",
+    "away_team": "赫罗纳",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19715258",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "克雷塔罗",
+    "away_team": "蒙特雷",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719619",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "八户云罗里",
+    "away_team": "磐城FC",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719620",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "札幌冈萨多",
+    "away_team": "鸟栖砂岩",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719618",
+    "home_score": 4,
+    "away_score": 0,
+    "home_team": "仙台维加泰",
+    "away_team": "秋田蓝色闪电",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719612",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "今治",
+    "away_team": "磐田喜悦",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19719614",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "富山胜利",
+    "away_team": "德岛漩涡",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744980",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "特内里费",
+    "away_team": "休达",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-14_19744985",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "格拉纳达",
+    "away_team": "拉斯帕尔马斯",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]
