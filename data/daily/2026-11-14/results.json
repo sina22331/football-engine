@@ -1,6 +1,6 @@
 [
   {
-    "match_id": "2026-11-14_19719616",
+    "match_id": "周六001",
     "home_score": 2,
     "away_score": 0,
     "home_team": "湘南海洋",
@@ -18,7 +18,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3867487",
+    "match_id": "周六003",
     "home_score": 3,
     "away_score": 2,
     "home_team": "日本",
@@ -27,7 +27,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3879191",
+    "match_id": "周六004",
     "home_score": 2,
     "away_score": 0,
     "home_team": "中国",
@@ -36,7 +36,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "2026-11-14_19719617",
+    "match_id": "3752141",
     "home_score": 2,
     "away_score": 1,
     "home_team": "RB大宫松鼠",
@@ -45,7 +45,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3748162",
+    "match_id": "周六005",
     "home_score": 4,
     "away_score": 2,
     "home_team": "布雷达",
@@ -54,7 +54,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3704040",
+    "match_id": "周六006",
     "home_score": 0,
     "away_score": 2,
     "home_team": "格鲁吉亚",
@@ -63,7 +63,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3704037",
+    "match_id": "周六007",
     "home_score": 3,
     "away_score": 1,
     "home_team": "挪威",
@@ -72,7 +72,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3748168",
+    "match_id": "周六008",
     "home_score": 3,
     "away_score": 1,
     "home_team": "罗达JC",
@@ -81,7 +81,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3748171",
+    "match_id": "周六009",
     "home_score": 4,
     "away_score": 0,
     "home_team": "瓦尔韦克",
@@ -99,7 +99,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3704048",
+    "match_id": "周六011",
     "home_score": 1,
     "away_score": 0,
     "home_team": "奥地利",
@@ -108,7 +108,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3704043",
+    "match_id": "周六012",
     "home_score": 3,
     "away_score": 2,
     "home_team": "瑞典",
@@ -117,7 +117,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3704046",
+    "match_id": "周六013",
     "home_score": 2,
     "away_score": 1,
     "home_team": "罗马尼亚",
@@ -126,7 +126,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3704039",
+    "match_id": "周六014",
     "home_score": 1,
     "away_score": 4,
     "home_team": "葡萄牙",
@@ -146,7 +146,7 @@
     "status": "完赛"
   },
   {
-    "match_id": "2026-11-14_19621735",
+    "match_id": "周六015",
     "home_team": "米拉索尔",
     "away_team": "米竞技",
     "home_score": 0,
@@ -168,7 +168,7 @@
     "status": "完赛"
   },
   {
-    "match_id": "2026-11-14_19621870",
+    "match_id": "3632630",
     "home_score": 0,
     "away_score": 2,
     "home_team": "沙佩科恩斯",

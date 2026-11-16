@@ -106,5 +106,16 @@
     "away_team": "英格兰",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周日004",
+    "home_team": "柏太阳神",
+    "away_team": "川崎前锋",
+    "home_score": 5,
+    "away_score": 4,
+    "competition": "日联杯",
+    "match_date": "2026-11-15",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
