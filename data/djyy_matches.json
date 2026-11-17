@@ -1,6 +1,6 @@
 {
   "source": "djyylive.com API v2",
-  "extracted_at": "2026-11-17T02:27:07.792762+00:00",
+  "extracted_at": "2026-11-17T19:48:21.652819+00:00",
   "total": 7,
   "with_odds": 7,
   "matches": [
@@ -48,13 +48,13 @@
       "home_goals": "",
       "away_goals": "",
       "has_odds": true,
-      "home_odds_djyy": 3.38,
-      "draw_odds_djyy": 3.5999999999999996,
+      "home_odds_djyy": 3.61,
+      "draw_odds_djyy": 3.39,
       "away_odds_djyy": 2.11,
       "djyy_model_prob": {
-        "home": 0.3515,
-        "draw": 0.24850000000000003,
-        "away": 0.4003
+        "home": 0.34840000000000004,
+        "draw": 0.2459,
+        "away": 0.4058
       },
       "odds_source": "DJYY/Pinnacle",
       "home_prematch_xg": null,
@@ -79,13 +79,13 @@
       "home_goals": "",
       "away_goals": "",
       "has_odds": true,
-      "home_odds_djyy": 1.58,
-      "draw_odds_djyy": 4.42,
-      "away_odds_djyy": 5.29,
+      "home_odds_djyy": 1.59,
+      "draw_odds_djyy": 4.44,
+      "away_odds_djyy": 5.12,
       "djyy_model_prob": {
-        "home": 0.5252,
-        "draw": 0.2519,
-        "away": 0.2229
+        "home": 0.5169,
+        "draw": 0.2564,
+        "away": 0.2271
       },
       "odds_source": "DJYY/Pinnacle",
       "home_prematch_xg": null,
@@ -110,13 +110,13 @@
       "home_goals": "",
       "away_goals": "",
       "has_odds": true,
-      "home_odds_djyy": 2.78,
-      "draw_odds_djyy": 3.4100000000000006,
-      "away_odds_djyy": 2.55,
+      "home_odds_djyy": 2.88,
+      "draw_odds_djyy": 3.4200000000000004,
+      "away_odds_djyy": 2.47,
       "djyy_model_prob": {
-        "home": 0.4129,
-        "draw": 0.2842,
-        "away": 0.3029
+        "home": 0.4107,
+        "draw": 0.2834,
+        "away": 0.3059
       },
       "odds_source": "DJYY/Pinnacle",
       "home_prematch_xg": null,
@@ -142,12 +142,12 @@
       "away_goals": "",
       "has_odds": true,
       "home_odds_djyy": 1.25,
-      "draw_odds_djyy": 6.47,
-      "away_odds_djyy": 10.61,
+      "draw_odds_djyy": 6.5,
+      "away_odds_djyy": 10.65,
       "djyy_model_prob": {
-        "home": 0.7139,
-        "draw": 0.18710000000000002,
-        "away": 0.0993
+        "home": 0.7118000000000001,
+        "draw": 0.1885,
+        "away": 0.09939999999999999
       },
       "odds_source": "DJYY/Pinnacle",
       "home_prematch_xg": null,
@@ -172,13 +172,13 @@
       "home_goals": "",
       "away_goals": "",
       "has_odds": true,
-      "home_odds_djyy": 2.23,
+      "home_odds_djyy": 2.28,
       "draw_odds_djyy": 3.6500000000000004,
-      "away_odds_djyy": 3.1,
+      "away_odds_djyy": 3.01,
       "djyy_model_prob": {
-        "home": 0.4329,
-        "draw": 0.249,
-        "away": 0.3181
+        "home": 0.4374,
+        "draw": 0.24420000000000003,
+        "away": 0.3184
       },
       "odds_source": "DJYY/Pinnacle",
       "home_prematch_xg": null,
@@ -203,19 +203,19 @@
       "home_goals": "",
       "away_goals": "",
       "has_odds": true,
-      "home_odds_djyy": 1.84,
-      "draw_odds_djyy": 3.7600000000000002,
-      "away_odds_djyy": 4.18,
+      "home_odds_djyy": 1.8500000000000003,
+      "draw_odds_djyy": 3.7799999999999994,
+      "away_odds_djyy": 4.09,
       "djyy_model_prob": {
-        "home": 0.5528,
-        "draw": 0.2438,
-        "away": 0.20350000000000001
+        "home": 0.5653,
+        "draw": 0.2396,
+        "away": 0.195
       },
       "odds_source": "DJYY/Pinnacle",
       "home_prematch_xg": null,
       "away_prematch_xg": null,
-      "btts_yes_odds": 1.7999999999999998,
-      "btts_no_odds": 1.9499999999999997,
+      "btts_yes_odds": 1.75,
+      "btts_no_odds": 2.0,
       "over_25_odds": null,
       "under_25_odds": null,
       "top_scores": null,
