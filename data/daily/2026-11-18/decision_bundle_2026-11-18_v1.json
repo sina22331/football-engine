@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "date": "2026-11-18",
+  "created_at": "2026-11-18T10:43:07Z",
+  "inputs": {
+    "import_manifest": {
+      "import_date": "2026-11-18",
+      "source": "merged(sporttery+500wan)",
+      "fixture_count": 8,
+      "sha256": "9e7406ed04258c3d6aaabe31c69b7fcd6c8f4e3fb4a90f1656ef3d439eaf3d4d",
+      "timestamp": "2026-11-18T10:43:01.724083",
+      "fallback_used": true
+    },
+    "config_prediction": "72e6959025718917ab361cabbaa859e078f72e2263bc3b0dc64032fb59ee2e7a",
+    "config_strategy": "8d84828520a6924a2836389746d65bae4929652a3ac02d50222c781558cbc863",
+    "model_code_hashes": {
+      "engine/main.py": "78f5d80ea505ed5f4befbf806eeee60f3d9983e776f66fb9e7c96db62757db49",
+      "engine/prediction/dixon_coles.py": "180265842c6f6fb3056031b5cea3c3792844635323520be93fd451290c9f971d",
+      "engine/prediction/monte_carlo.py": "378de25893e95591be8259afce3b765590bc229c452d67ccec60e19046da6a19",
+      "engine/prediction/fusion.py": "c219b0b580df28f9e2dc6b654375fc8ddde65cbe8561600625ef739eb17d62cf",
+      "engine/prediction/ensemble.py": "bc2b2885d16b02ee668139e244c203c02a940cd993e9eeff1468ae1767701b79",
+      "engine/strategy/kelly.py": "a0bb684a8bdfe0823e12fcdcaee13a4c9c3e3b9a865f87b95982cb5684b28fe6"
+    }
+  },
+  "outputs": {
+    "predictions_hash": "044c162075b990f8ce4fc18dc1728a7f15d47a99067842d5640080f990524c43",
+    "predictions_count": 4,
+    "betting_plan_hash": "860be9066970316ad66bf3a9aba1551f9641603efd0f95638f312076602266a2",
+    "total_stake": 500.0
+  },
+  "bundle_sha256": "04afe7c882a4db4ae9db6b8f0dfc5b9b326e6ba7d2464c93bcee6d554b50b549"
+}

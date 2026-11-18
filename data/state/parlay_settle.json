@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-18T02:27:24.415758+00:00",
+  "generated_at": "2026-11-18T10:45:07.915589+00:00",
   "parlay": {
-    "n_tickets": 133,
-    "n_pending": 0,
+    "n_tickets": 138,
+    "n_pending": 5,
     "n_settled": 133,
     "n_won": 36,
     "hit_rate": 0.2707,
     "stake": 747.68,
-    "stake_committed": 747.68,
-    "stake_pending": 0,
+    "stake_committed": 770.11,
+    "stake_pending": 22.43,
     "return": 894.25,
     "roi": 0.196,
     "avg_odds": 6.8,
@@ -5289,6 +5289,206 @@
             "score": null,
             "odds": 2.18,
             "hit": true
+          }
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "type": "2串1",
+        "stake": 5.64,
+        "potential": 79.08,
+        "total_odds": 14.02,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-18_周三004",
+            "home": "格雷米奥",
+            "away": "巴伊亚",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.68,
+            "hit": null
+          },
+          {
+            "match": "2026-11-18_周三003",
+            "home": "科林蒂安",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.81,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "type": "2串1",
+        "stake": 5.53,
+        "potential": 70.62,
+        "total_odds": 12.77,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-18_周三004",
+            "home": "格雷米奥",
+            "away": "巴伊亚",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.68,
+            "hit": null
+          },
+          {
+            "match": "2026-11-18_周三001",
+            "home": "科里蒂巴",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.47,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "type": "2串1",
+        "stake": 4.16,
+        "potential": 55.0,
+        "total_odds": 13.22,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-18_周三003",
+            "home": "科林蒂安",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.81,
+            "hit": null
+          },
+          {
+            "match": "2026-11-18_周三001",
+            "home": "科里蒂巴",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.47,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "type": "3串1",
+        "stake": 3.11,
+        "potential": 151.31,
+        "total_odds": 48.65,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-18_周三004",
+            "home": "格雷米奥",
+            "away": "巴伊亚",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.68,
+            "hit": null
+          },
+          {
+            "match": "2026-11-18_周三003",
+            "home": "科林蒂安",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.81,
+            "hit": null
+          },
+          {
+            "match": "2026-11-18_周三001",
+            "home": "科里蒂巴",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.47,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "type": "3串4",
+        "stake": 3.99,
+        "potential": 88.44,
+        "total_odds": 22.17,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-18_周三004",
+            "home": "格雷米奥",
+            "away": "巴伊亚",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.68,
+            "hit": null
+          },
+          {
+            "match": "2026-11-18_周三003",
+            "home": "科林蒂安",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.81,
+            "hit": null
+          },
+          {
+            "match": "2026-11-18_周三001",
+            "home": "科里蒂巴",
+            "away": "桑托斯",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.47,
+            "hit": null
           }
         ]
       }
@@ -35019,6 +35219,230 @@
             ]
           }
         ]
+      }
+    },
+    "2026-11-18": {
+      "parlay": {
+        "stats": {
+          "n_tickets": 5,
+          "n_pending": 5,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 22.43,
+          "stake_pending": 22.43,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {}
+        },
+        "tickets": [
+          {
+            "date": "2026-11-18",
+            "type": "2串1",
+            "stake": 5.64,
+            "potential": 79.08,
+            "total_odds": 14.02,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-18_周三004",
+                "home": "格雷米奥",
+                "away": "巴伊亚",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.68,
+                "hit": null
+              },
+              {
+                "match": "2026-11-18_周三003",
+                "home": "科林蒂安",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.81,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-18",
+            "type": "2串1",
+            "stake": 5.53,
+            "potential": 70.62,
+            "total_odds": 12.77,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-18_周三004",
+                "home": "格雷米奥",
+                "away": "巴伊亚",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.68,
+                "hit": null
+              },
+              {
+                "match": "2026-11-18_周三001",
+                "home": "科里蒂巴",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.47,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-18",
+            "type": "2串1",
+            "stake": 4.16,
+            "potential": 55.0,
+            "total_odds": 13.22,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-18_周三003",
+                "home": "科林蒂安",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.81,
+                "hit": null
+              },
+              {
+                "match": "2026-11-18_周三001",
+                "home": "科里蒂巴",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.47,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-18",
+            "type": "3串1",
+            "stake": 3.11,
+            "potential": 151.31,
+            "total_odds": 48.65,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-18_周三004",
+                "home": "格雷米奥",
+                "away": "巴伊亚",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.68,
+                "hit": null
+              },
+              {
+                "match": "2026-11-18_周三003",
+                "home": "科林蒂安",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.81,
+                "hit": null
+              },
+              {
+                "match": "2026-11-18_周三001",
+                "home": "科里蒂巴",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.47,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-18",
+            "type": "3串4",
+            "stake": 3.99,
+            "potential": 88.44,
+            "total_odds": 22.17,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-18_周三004",
+                "home": "格雷米奥",
+                "away": "巴伊亚",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.68,
+                "hit": null
+              },
+              {
+                "match": "2026-11-18_周三003",
+                "home": "科林蒂安",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.81,
+                "hit": null
+              },
+              {
+                "match": "2026-11-18_周三001",
+                "home": "科里蒂巴",
+                "away": "桑托斯",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.47,
+                "hit": null
+              }
+            ]
+          }
+        ]
+      },
+      "score_parlay": {
+        "stats": null,
+        "tickets": []
       }
     }
   }
