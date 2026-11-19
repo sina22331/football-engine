@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-19T08:43:35",
-  "total_matches": 1943,
+  "generated_at": "2026-11-19T17:39:54",
+  "total_matches": 1973,
   "no_kickoff_time": 0,
   "snapshots": {
-    "mean": 3.76,
+    "mean": 3.72,
     "median": 3,
     "max": 17,
     "dist": {
-      "1": 249,
+      "1": 277,
       "2": 380,
-      "3": 468,
+      "3": 470,
       "4": 316,
       "5": 185,
       "6": 102,
@@ -26,30 +26,30 @@
     }
   },
   "multi_snapshot": {
-    "n": 1694,
-    "ratio": 0.8718
+    "n": 1696,
+    "ratio": 0.8596
   },
-  "odds_actually_moved": 1684,
-  "odds_flat": 259,
+  "odds_actually_moved": 1686,
+  "odds_flat": 287,
   "gap_hours": {
     "median": 4.13,
-    "mean": 5.12,
-    "p90": 10.22
+    "mean": 5.13,
+    "p90": 10.24
   },
   "lead_to_kickoff_hours": {
-    "median_last": 10.19,
-    "p10_last": 2.58,
-    "p90_last": 16.41,
-    "median_first": 22.93
+    "median_last": 10.26,
+    "p10_last": 2.59,
+    "p90_last": 16.7,
+    "median_first": 23.03
   },
   "closing_coverage": {
     "window_h": 2.0,
     "n": 72,
     "ratio": 0.0374,
     "assessable": 1927,
-    "pending_kickoff": 16,
+    "pending_kickoff": 46,
     "post_kickoff_last": 77,
-    "stopped_before_kickoff": 1866
+    "stopped_before_kickoff": 1896
   },
   "near_close_coverage": {
     "window_h": 6.0,
@@ -58,8 +58,9 @@
   },
   "last_collection_day_offset": {
     "0": 753,
-    "1": 1169,
-    "2": 21
+    "1": 1172,
+    "2": 43,
+    "3": 5
   },
   "by_kickoff_hour": {
     "0": {
@@ -67,20 +68,20 @@
       "median_lead": 9.5
     },
     "1": {
-      "n": 150,
-      "median_lead": 10.22
+      "n": 155,
+      "median_lead": 10.25
     },
     "2": {
       "n": 252,
       "median_lead": 11.47
     },
     "3": {
-      "n": 363,
+      "n": 367,
       "median_lead": 12.83
     },
     "4": {
-      "n": 85,
-      "median_lead": 13.66
+      "n": 86,
+      "median_lead": 13.74
     },
     "5": {
       "n": 10,
@@ -115,7 +116,7 @@
       "median_lead": -2.67
     },
     "13": {
-      "n": 35,
+      "n": 37,
       "median_lead": -0.91
     },
     "14": {
@@ -123,27 +124,27 @@
       "median_lead": 0.39
     },
     "15": {
-      "n": 38,
-      "median_lead": 0.46
+      "n": 39,
+      "median_lead": 0.59
     },
     "16": {
-      "n": 20,
-      "median_lead": 1.77
+      "n": 22,
+      "median_lead": 1.91
     },
     "17": {
       "n": 20,
       "median_lead": 1.75
     },
     "18": {
-      "n": 129,
-      "median_lead": 2.93
+      "n": 131,
+      "median_lead": 3.01
     },
     "19": {
       "n": 47,
       "median_lead": 3.86
     },
     "20": {
-      "n": 74,
+      "n": 76,
       "median_lead": 5.12
     },
     "21": {
@@ -151,12 +152,12 @@
       "median_lead": 6.33
     },
     "22": {
-      "n": 138,
+      "n": 143,
       "median_lead": 7.33
     },
     "23": {
-      "n": 95,
-      "median_lead": 8.38
+      "n": 101,
+      "median_lead": 8.5
     }
   },
   "healthy": false,
