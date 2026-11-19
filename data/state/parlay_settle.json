@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-19T01:11:42.676721+00:00",
+  "generated_at": "2026-11-19T08:46:16.097186+00:00",
   "parlay": {
-    "n_tickets": 138,
+    "n_tickets": 143,
     "n_pending": 5,
-    "n_settled": 133,
+    "n_settled": 138,
     "n_won": 36,
-    "hit_rate": 0.2707,
-    "stake": 747.68,
-    "stake_committed": 770.11,
+    "hit_rate": 0.2609,
+    "stake": 770.11,
+    "stake_committed": 792.54,
     "stake_pending": 22.43,
     "return": 894.25,
-    "roi": 0.196,
-    "avg_odds": 6.8,
+    "roi": 0.1612,
+    "avg_odds": 7.36,
     "by_type": {
       "2串1": {
-        "n": 89,
+        "n": 92,
         "won": 21,
-        "roi": 0.3
+        "roi": 0.2662
       },
       "3串1": {
-        "n": 22,
+        "n": 23,
         "won": 1,
-        "roi": -0.4505
+        "roi": -0.4729
       },
       "3串4": {
-        "n": 22,
+        "n": 23,
         "won": 14,
-        "roi": 0.0725
+        "roi": 0.0316
       }
     }
   },
@@ -5299,47 +5299,11 @@
         "potential": 79.08,
         "total_odds": 14.02,
         "odds_source": null,
-        "note": "待赛",
+        "note": "两场全中才赢",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-11-18_周三004",
-            "home": "格雷米奥",
-            "away": "巴伊亚",
-            "sel": "draw",
-            "score": null,
-            "odds": 3.68,
-            "hit": null
-          },
-          {
-            "match": "2026-11-18_周三003",
-            "home": "科林蒂安",
-            "away": "博塔弗戈",
-            "sel": "draw",
-            "score": null,
-            "odds": 3.81,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-11-18",
-        "type": "2串1",
-        "stake": 5.53,
-        "potential": 70.62,
-        "total_odds": 12.77,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
+          true,
           false
         ],
         "return": 0.0,
@@ -5351,7 +5315,43 @@
             "sel": "draw",
             "score": null,
             "odds": 3.68,
-            "hit": null
+            "hit": true
+          },
+          {
+            "match": "2026-11-18_周三003",
+            "home": "科林蒂安",
+            "away": "博塔弗戈",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.81,
+            "hit": false
+          }
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "type": "2串1",
+        "stake": 5.53,
+        "potential": 70.62,
+        "total_odds": 12.77,
+        "odds_source": null,
+        "note": "两场全中才赢",
+        "won": false,
+        "pending": false,
+        "leg_results": [
+          true,
+          false
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-18_周三004",
+            "home": "格雷米奥",
+            "away": "巴伊亚",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.68,
+            "hit": true
           },
           {
             "match": "2026-11-18_周三001",
@@ -5371,11 +5371,11 @@
         "potential": 55.0,
         "total_odds": 13.22,
         "odds_source": null,
-        "note": "待赛",
+        "note": "两场全中才赢",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
-          null,
+          false,
           false
         ],
         "return": 0.0,
@@ -5387,7 +5387,7 @@
             "sel": "draw",
             "score": null,
             "odds": 3.81,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-11-18_周三001",
@@ -5407,12 +5407,12 @@
         "potential": 151.31,
         "total_odds": 48.65,
         "odds_source": null,
-        "note": "待赛",
+        "note": "三场全中才赢",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
-          null,
-          null,
+          true,
+          false,
           false
         ],
         "return": 0.0,
@@ -5424,7 +5424,7 @@
             "sel": "draw",
             "score": null,
             "odds": 3.68,
-            "hit": null
+            "hit": true
           },
           {
             "match": "2026-11-18_周三003",
@@ -5433,7 +5433,7 @@
             "sel": "draw",
             "score": null,
             "odds": 3.81,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-11-18_周三001",
@@ -5453,12 +5453,12 @@
         "potential": 88.44,
         "total_odds": 22.17,
         "odds_source": null,
-        "note": "待赛",
+        "note": "0/4注中（命中1场）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
-          null,
-          null,
+          true,
+          false,
           false
         ],
         "return": 0.0,
@@ -5470,7 +5470,7 @@
             "sel": "draw",
             "score": null,
             "odds": 3.68,
-            "hit": null
+            "hit": true
           },
           {
             "match": "2026-11-18_周三003",
@@ -5479,7 +5479,7 @@
             "sel": "draw",
             "score": null,
             "odds": 3.81,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-11-18_周三001",
@@ -5489,6 +5489,206 @@
             "score": null,
             "odds": 3.47,
             "hit": false
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "type": "2串1",
+        "stake": 5.76,
+        "potential": 68.91,
+        "total_odds": 11.96,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-19_周四004",
+            "home": "西雅图",
+            "away": "皇家盐湖城",
+            "sel": "away",
+            "score": null,
+            "odds": 3.67,
+            "hit": null
+          },
+          {
+            "match": "2026-11-19_周四002",
+            "home": "圣保罗",
+            "away": "弗鲁米嫩塞",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.26,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "type": "2串1",
+        "stake": 5.31,
+        "potential": 47.94,
+        "total_odds": 9.03,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-19_周四004",
+            "home": "西雅图",
+            "away": "皇家盐湖城",
+            "sel": "away",
+            "score": null,
+            "odds": 3.67,
+            "hit": null
+          },
+          {
+            "match": "2026-11-19_周四003",
+            "home": "奥兰多",
+            "away": "辛辛那提",
+            "sel": "home",
+            "score": null,
+            "odds": 2.46,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "type": "2串1",
+        "stake": 4.29,
+        "potential": 34.4,
+        "total_odds": 8.02,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-19_周四002",
+            "home": "圣保罗",
+            "away": "弗鲁米嫩塞",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.26,
+            "hit": null
+          },
+          {
+            "match": "2026-11-19_周四003",
+            "home": "奥兰多",
+            "away": "辛辛那提",
+            "sel": "home",
+            "score": null,
+            "odds": 2.46,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "type": "3串1",
+        "stake": 3.01,
+        "potential": 88.59,
+        "total_odds": 29.43,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-19_周四004",
+            "home": "西雅图",
+            "away": "皇家盐湖城",
+            "sel": "away",
+            "score": null,
+            "odds": 3.67,
+            "hit": null
+          },
+          {
+            "match": "2026-11-19_周四002",
+            "home": "圣保罗",
+            "away": "弗鲁米嫩塞",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.26,
+            "hit": null
+          },
+          {
+            "match": "2026-11-19_周四003",
+            "home": "奥兰多",
+            "away": "辛辛那提",
+            "sel": "home",
+            "score": null,
+            "odds": 2.46,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "type": "3串4",
+        "stake": 4.06,
+        "potential": 59.32,
+        "total_odds": 14.61,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-11-19_周四004",
+            "home": "西雅图",
+            "away": "皇家盐湖城",
+            "sel": "away",
+            "score": null,
+            "odds": 3.67,
+            "hit": null
+          },
+          {
+            "match": "2026-11-19_周四002",
+            "home": "圣保罗",
+            "away": "弗鲁米嫩塞",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.26,
+            "hit": null
+          },
+          {
+            "match": "2026-11-19_周四003",
+            "home": "奥兰多",
+            "away": "辛辛那提",
+            "sel": "home",
+            "score": null,
+            "odds": 2.46,
+            "hit": null
           }
         ]
       }
@@ -35225,17 +35425,33 @@
       "parlay": {
         "stats": {
           "n_tickets": 5,
-          "n_pending": 5,
-          "n_settled": 0,
+          "n_pending": 0,
+          "n_settled": 5,
           "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
+          "hit_rate": 0.0,
+          "stake": 22.43,
           "stake_committed": 22.43,
-          "stake_pending": 22.43,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {}
+          "stake_pending": 0,
+          "return": 0.0,
+          "roi": -1.0,
+          "avg_odds": 22.17,
+          "by_type": {
+            "2串1": {
+              "n": 3,
+              "won": 0,
+              "roi": -1.0
+            },
+            "3串1": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            },
+            "3串4": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            }
+          }
         },
         "tickets": [
           {
@@ -35245,47 +35461,11 @@
             "potential": 79.08,
             "total_odds": 14.02,
             "odds_source": null,
-            "note": "待赛",
+            "note": "两场全中才赢",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-11-18_周三004",
-                "home": "格雷米奥",
-                "away": "巴伊亚",
-                "sel": "draw",
-                "score": null,
-                "odds": 3.68,
-                "hit": null
-              },
-              {
-                "match": "2026-11-18_周三003",
-                "home": "科林蒂安",
-                "away": "博塔弗戈",
-                "sel": "draw",
-                "score": null,
-                "odds": 3.81,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-11-18",
-            "type": "2串1",
-            "stake": 5.53,
-            "potential": 70.62,
-            "total_odds": 12.77,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
+              true,
               false
             ],
             "return": 0.0,
@@ -35297,7 +35477,43 @@
                 "sel": "draw",
                 "score": null,
                 "odds": 3.68,
-                "hit": null
+                "hit": true
+              },
+              {
+                "match": "2026-11-18_周三003",
+                "home": "科林蒂安",
+                "away": "博塔弗戈",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.81,
+                "hit": false
+              }
+            ]
+          },
+          {
+            "date": "2026-11-18",
+            "type": "2串1",
+            "stake": 5.53,
+            "potential": 70.62,
+            "total_odds": 12.77,
+            "odds_source": null,
+            "note": "两场全中才赢",
+            "won": false,
+            "pending": false,
+            "leg_results": [
+              true,
+              false
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-18_周三004",
+                "home": "格雷米奥",
+                "away": "巴伊亚",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.68,
+                "hit": true
               },
               {
                 "match": "2026-11-18_周三001",
@@ -35317,11 +35533,11 @@
             "potential": 55.0,
             "total_odds": 13.22,
             "odds_source": null,
-            "note": "待赛",
+            "note": "两场全中才赢",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
-              null,
+              false,
               false
             ],
             "return": 0.0,
@@ -35333,7 +35549,7 @@
                 "sel": "draw",
                 "score": null,
                 "odds": 3.81,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-11-18_周三001",
@@ -35353,12 +35569,12 @@
             "potential": 151.31,
             "total_odds": 48.65,
             "odds_source": null,
-            "note": "待赛",
+            "note": "三场全中才赢",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
-              null,
-              null,
+              true,
+              false,
               false
             ],
             "return": 0.0,
@@ -35370,7 +35586,7 @@
                 "sel": "draw",
                 "score": null,
                 "odds": 3.68,
-                "hit": null
+                "hit": true
               },
               {
                 "match": "2026-11-18_周三003",
@@ -35379,7 +35595,7 @@
                 "sel": "draw",
                 "score": null,
                 "odds": 3.81,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-11-18_周三001",
@@ -35399,12 +35615,12 @@
             "potential": 88.44,
             "total_odds": 22.17,
             "odds_source": null,
-            "note": "待赛",
+            "note": "0/4注中（命中1场）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
-              null,
-              null,
+              true,
+              false,
               false
             ],
             "return": 0.0,
@@ -35416,7 +35632,7 @@
                 "sel": "draw",
                 "score": null,
                 "odds": 3.68,
-                "hit": null
+                "hit": true
               },
               {
                 "match": "2026-11-18_周三003",
@@ -35425,7 +35641,7 @@
                 "sel": "draw",
                 "score": null,
                 "odds": 3.81,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-11-18_周三001",
@@ -35435,6 +35651,230 @@
                 "score": null,
                 "odds": 3.47,
                 "hit": false
+              }
+            ]
+          }
+        ]
+      },
+      "score_parlay": {
+        "stats": null,
+        "tickets": []
+      }
+    },
+    "2026-11-19": {
+      "parlay": {
+        "stats": {
+          "n_tickets": 5,
+          "n_pending": 5,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 22.43,
+          "stake_pending": 22.43,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {}
+        },
+        "tickets": [
+          {
+            "date": "2026-11-19",
+            "type": "2串1",
+            "stake": 5.76,
+            "potential": 68.91,
+            "total_odds": 11.96,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-19_周四004",
+                "home": "西雅图",
+                "away": "皇家盐湖城",
+                "sel": "away",
+                "score": null,
+                "odds": 3.67,
+                "hit": null
+              },
+              {
+                "match": "2026-11-19_周四002",
+                "home": "圣保罗",
+                "away": "弗鲁米嫩塞",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.26,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-19",
+            "type": "2串1",
+            "stake": 5.31,
+            "potential": 47.94,
+            "total_odds": 9.03,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-19_周四004",
+                "home": "西雅图",
+                "away": "皇家盐湖城",
+                "sel": "away",
+                "score": null,
+                "odds": 3.67,
+                "hit": null
+              },
+              {
+                "match": "2026-11-19_周四003",
+                "home": "奥兰多",
+                "away": "辛辛那提",
+                "sel": "home",
+                "score": null,
+                "odds": 2.46,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-19",
+            "type": "2串1",
+            "stake": 4.29,
+            "potential": 34.4,
+            "total_odds": 8.02,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-19_周四002",
+                "home": "圣保罗",
+                "away": "弗鲁米嫩塞",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.26,
+                "hit": null
+              },
+              {
+                "match": "2026-11-19_周四003",
+                "home": "奥兰多",
+                "away": "辛辛那提",
+                "sel": "home",
+                "score": null,
+                "odds": 2.46,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-19",
+            "type": "3串1",
+            "stake": 3.01,
+            "potential": 88.59,
+            "total_odds": 29.43,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-19_周四004",
+                "home": "西雅图",
+                "away": "皇家盐湖城",
+                "sel": "away",
+                "score": null,
+                "odds": 3.67,
+                "hit": null
+              },
+              {
+                "match": "2026-11-19_周四002",
+                "home": "圣保罗",
+                "away": "弗鲁米嫩塞",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.26,
+                "hit": null
+              },
+              {
+                "match": "2026-11-19_周四003",
+                "home": "奥兰多",
+                "away": "辛辛那提",
+                "sel": "home",
+                "score": null,
+                "odds": 2.46,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-11-19",
+            "type": "3串4",
+            "stake": 4.06,
+            "potential": 59.32,
+            "total_odds": 14.61,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-11-19_周四004",
+                "home": "西雅图",
+                "away": "皇家盐湖城",
+                "sel": "away",
+                "score": null,
+                "odds": 3.67,
+                "hit": null
+              },
+              {
+                "match": "2026-11-19_周四002",
+                "home": "圣保罗",
+                "away": "弗鲁米嫩塞",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.26,
+                "hit": null
+              },
+              {
+                "match": "2026-11-19_周四003",
+                "home": "奥兰多",
+                "away": "辛辛那提",
+                "sel": "home",
+                "score": null,
+                "odds": 2.46,
+                "hit": null
               }
             ]
           }

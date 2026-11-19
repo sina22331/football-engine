@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T01:11:33",
-  "n_settled": 1370,
-  "n_positive_edge": 117,
+  "generated_at": "2026-11-19T08:46:06",
+  "n_settled": 1373,
+  "n_positive_edge": 120,
   "edge_buckets": [
     {
       "bucket": "[0.00,0.02)",
@@ -29,11 +29,11 @@
     },
     {
       "bucket": "[0.10,10.00)",
-      "n": 77,
-      "actual_hit_rate": 0.3377,
-      "required_hit_rate": 0.3979,
-      "ev_gap": -0.0602,
-      "roi_proxy": -0.1514
+      "n": 80,
+      "actual_hit_rate": 0.3375,
+      "required_hit_rate": 0.3913,
+      "ev_gap": -0.0538,
+      "roi_proxy": -0.1375
     }
   ],
   "prob_buckets": [
@@ -47,27 +47,27 @@
     },
     {
       "bucket": "[0.40,0.50)",
-      "n": 482,
-      "actual_hit_rate": 0.4938,
-      "required_hit_rate": 0.5232,
-      "ev_gap": -0.0294,
-      "roi_proxy": -0.0562
+      "n": 483,
+      "actual_hit_rate": 0.4928,
+      "required_hit_rate": 0.5224,
+      "ev_gap": -0.0296,
+      "roi_proxy": -0.0567
     },
     {
       "bucket": "[0.50,0.60)",
-      "n": 347,
-      "actual_hit_rate": 0.4957,
-      "required_hit_rate": 0.595,
-      "ev_gap": -0.0993,
-      "roi_proxy": -0.167
+      "n": 348,
+      "actual_hit_rate": 0.4943,
+      "required_hit_rate": 0.5941,
+      "ev_gap": -0.0998,
+      "roi_proxy": -0.168
     },
     {
       "bucket": "[0.60,0.70)",
-      "n": 214,
-      "actual_hit_rate": 0.6776,
-      "required_hit_rate": 0.7275,
-      "ev_gap": -0.05,
-      "roi_proxy": -0.0687
+      "n": 215,
+      "actual_hit_rate": 0.6791,
+      "required_hit_rate": 0.7254,
+      "ev_gap": -0.0463,
+      "roi_proxy": -0.0639
     },
     {
       "bucket": "[0.70,1.01)",
