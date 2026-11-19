@@ -450,13 +450,13 @@
     "last_match_date": "2026-10-12"
   },
   "科里蒂巴": {
-    "elo": 1469.1,
-    "attack": 0.3307,
-    "defense": 0.6196,
-    "form": -0.2953,
+    "elo": 1453.1,
+    "attack": 0.2985,
+    "defense": 0.5944,
+    "form": -0.5067,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-10-12"
+    "rest_days": 14,
+    "last_match_date": "2026-11-18"
   },
   "费古埃伦": {
     "elo": 1398.1,
@@ -567,13 +567,13 @@
     "last_match_date": "2026-10-28"
   },
   "桑托斯": {
-    "elo": 1533.6,
-    "attack": 0.4853,
-    "defense": 0.5443,
-    "form": -0.2775,
+    "elo": 1549.6,
+    "attack": 0.4732,
+    "defense": 0.4912,
+    "form": 0.1057,
     "injury": 0.0,
-    "rest_days": 9,
-    "last_match_date": "2026-11-02"
+    "rest_days": 14,
+    "last_match_date": "2026-11-18"
   },
   "帕尔梅拉斯": {
     "elo": 1792.1,
@@ -648,13 +648,13 @@
     "last_match_date": "2026-11-16"
   },
   "沙佩科恩斯": {
-    "elo": 1352.5,
-    "attack": 0.4606,
-    "defense": 0.9427,
-    "form": -0.7833,
+    "elo": 1339.1,
+    "attack": 0.4157,
+    "defense": 0.9212,
+    "form": -0.8483,
     "injury": 0.0,
     "rest_days": 2,
-    "last_match_date": "2026-11-16"
+    "last_match_date": "2026-11-18"
   },
   "奥林匹奥": {
     "elo": 1262.0,
@@ -7668,13 +7668,13 @@
     "last_match_date": "2026-07-30"
   },
   "雷莫": {
-    "elo": 1494.9,
-    "attack": 0.422,
-    "defense": 0.6976,
-    "form": -0.4875,
+    "elo": 1508.3,
+    "attack": 0.4512,
+    "defense": 0.6296,
+    "form": -0.0413,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-11-05"
+    "rest_days": 13,
+    "last_match_date": "2026-11-18"
   },
   "内夫奇": {
     "elo": 1517.1,
