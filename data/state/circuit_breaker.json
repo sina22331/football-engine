@@ -1,72 +1,16 @@
 {
-  "current_streak": -5,
-  "total_losses": 1036,
+  "current_streak": -13,
+  "total_losses": 1044,
   "total_wins": 1029,
   "halted": false,
   "halt_date": "",
-  "tier": 1,
-  "daily_pnl": -22.43,
-  "daily_date": "2026-11-19",
-  "weekly_pnl": -22.43,
+  "tier": 3,
+  "daily_pnl": -22.429999999999996,
+  "daily_date": "2026-11-21",
+  "weekly_pnl": -44.86,
   "weekly_start": "2026-11-16",
   "peak_bankroll": 3945.8711000000003,
   "history": [
-    {
-      "date": "2026-11-01",
-      "won": true,
-      "pnl": 0.0,
-      "streak": 2,
-      "bankroll": 3803.17
-    },
-    {
-      "date": "2026-11-01",
-      "won": false,
-      "pnl": 0.0,
-      "streak": -1,
-      "bankroll": 3803.17
-    },
-    {
-      "date": "2026-11-01",
-      "won": true,
-      "pnl": 0.0,
-      "streak": 1,
-      "bankroll": 3803.17
-    },
-    {
-      "date": "2026-11-01",
-      "won": false,
-      "pnl": -2.0,
-      "streak": -1,
-      "bankroll": 3803.17
-    },
-    {
-      "date": "2026-11-01",
-      "won": false,
-      "pnl": -2.0,
-      "streak": -2,
-      "bankroll": 3801.17
-    },
-    {
-      "date": "2026-11-01",
-      "won": false,
-      "pnl": -8.0,
-      "streak": -3,
-      "bankroll": 3799.17
-    },
-    {
-      "date": "2026-11-01",
-      "won": false,
-      "pnl": 0.0,
-      "streak": -4,
-      "bankroll": 3791.17
-    },
-    {
-      "date": "2026-11-01",
-      "won": false,
-      "pnl": 0.0,
-      "streak": -5,
-      "bankroll": 3791.17
-    },
     {
       "date": "2026-11-01",
       "won": true,
@@ -1410,6 +1354,62 @@
       "pnl": -3.99,
       "streak": -5,
       "bankroll": 3719.87
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -6,
+      "bankroll": 3715.88
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -7,
+      "bankroll": 3715.88
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -8,
+      "bankroll": 3715.88
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": -5.76,
+      "streak": -9,
+      "bankroll": 3715.88
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": -5.31,
+      "streak": -10,
+      "bankroll": 3710.12
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": -4.29,
+      "streak": -11,
+      "bankroll": 3704.81
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": -3.01,
+      "streak": -12,
+      "bankroll": 3700.52
+    },
+    {
+      "date": "2026-11-21",
+      "won": false,
+      "pnl": -4.06,
+      "streak": -13,
+      "bankroll": 3697.51
     }
   ]
 }

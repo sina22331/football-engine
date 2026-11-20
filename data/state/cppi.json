@@ -1,7 +1,7 @@
 {
   "peak_bankroll": 5000.0,
   "floor": 3500.0,
-  "current_bankroll": 3715.8759000000005,
+  "current_bankroll": 3693.4459,
   "total_risk_exposure": 0.0,
   "history": [
     {
@@ -716,6 +716,11 @@
     },
     {
       "bankroll": 3715.88,
+      "peak": 5000.0,
+      "floor": 3500.0
+    },
+    {
+      "bankroll": 3693.45,
       "peak": 5000.0,
       "floor": 3500.0
     }

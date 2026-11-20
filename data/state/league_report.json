@@ -1,8 +1,8 @@
 {
   "n_leagues": 45,
-  "n_matches": 1509,
+  "n_matches": 1513,
   "external_added": 29,
-  "generated_at": "2026-11-19T23:50:45.937483",
+  "generated_at": "2026-11-20T16:09:20.107751",
   "leagues": [
     {
       "league": "西甲",
@@ -141,6 +141,23 @@
       "recent10_roi": -0.387
     },
     {
+      "league": "巴甲",
+      "n": 62,
+      "hit_rate": 0.371,
+      "avg_odds": 2.869,
+      "roi": -0.1169,
+      "avg_confidence": 0.2029,
+      "verdict": "送钱区",
+      "recent_n": 5,
+      "recent_hits": 1,
+      "recent_hit_rate": 0.2,
+      "recent_roi": -0.264,
+      "recent10_n": 10,
+      "recent10_hits": 5,
+      "recent10_hit_rate": 0.5,
+      "recent10_roi": 0.065
+    },
+    {
       "league": "瑞典超",
       "n": 61,
       "hit_rate": 0.4098,
@@ -156,23 +173,6 @@
       "recent10_hits": 5,
       "recent10_hit_rate": 0.5,
       "recent10_roi": -0.251
-    },
-    {
-      "league": "巴甲",
-      "n": 60,
-      "hit_rate": 0.3833,
-      "avg_odds": 2.88,
-      "roi": -0.0875,
-      "avg_confidence": 0.2015,
-      "verdict": "送钱区",
-      "recent_n": 5,
-      "recent_hits": 2,
-      "recent_hit_rate": 0.4,
-      "recent_roi": 0.186,
-      "recent10_n": 10,
-      "recent10_hits": 7,
-      "recent10_hit_rate": 0.7,
-      "recent10_roi": 0.478
     },
     {
       "league": "K1联赛",
@@ -464,6 +464,23 @@
       "recent10_roi": 0.172
     },
     {
+      "league": "美职联",
+      "n": 15,
+      "hit_rate": 0.4,
+      "avg_odds": 2.049,
+      "roi": -0.2647,
+      "avg_confidence": 0.2566,
+      "verdict": "谨慎",
+      "recent_n": 5,
+      "recent_hits": 1,
+      "recent_hit_rate": 0.2,
+      "recent_roi": -0.618,
+      "recent10_n": 10,
+      "recent10_hits": 2,
+      "recent10_hit_rate": 0.2,
+      "recent10_roi": -0.672
+    },
+    {
       "league": "国际赛",
       "n": 14,
       "hit_rate": 0.7143,
@@ -496,23 +513,6 @@
       "recent10_hits": 4,
       "recent10_hit_rate": 0.4,
       "recent10_roi": -0.252
-    },
-    {
-      "league": "美职联",
-      "n": 13,
-      "hit_rate": 0.4615,
-      "avg_odds": 1.893,
-      "roi": -0.1515,
-      "avg_confidence": 0.2475,
-      "verdict": "谨慎",
-      "recent_n": 5,
-      "recent_hits": 2,
-      "recent_hit_rate": 0.4,
-      "recent_roi": -0.344,
-      "recent10_n": 10,
-      "recent10_hits": 4,
-      "recent10_hit_rate": 0.4,
-      "recent10_roi": -0.297
     },
     {
       "league": "澳超",
