@@ -1701,13 +1701,13 @@
     "last_match_date": "2026-11-07"
   },
   "拜仁慕尼黑": {
-    "elo": 2173.1,
-    "attack": 0.9976,
-    "defense": 0.3988,
-    "form": 0.715,
+    "elo": 2157.7,
+    "attack": 0.9355,
+    "defense": 0.3951,
+    "form": 0.5005,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-11-07"
+    "rest_days": 13,
+    "last_match_date": "2026-11-20"
   },
   "波鸿": {
     "elo": 1491.5,
@@ -2025,13 +2025,13 @@
     "last_match_date": "2026-11-08"
   },
   "毕尔巴鄂竞技": {
-    "elo": 1660.5,
-    "attack": 0.7239,
-    "defense": 0.5536,
-    "form": 0.2698,
+    "elo": 1636.4,
+    "attack": 0.6533,
+    "defense": 0.5348,
+    "form": -0.1111,
     "injury": 0.0,
-    "rest_days": 6,
-    "last_match_date": "2026-11-07"
+    "rest_days": 13,
+    "last_match_date": "2026-11-20"
   },
   "布星": {
     "elo": 1484.1,
@@ -2313,13 +2313,13 @@
     "last_match_date": null
   },
   "科隆": {
-    "elo": 1540.4,
-    "attack": 0.7076,
-    "defense": 0.8202,
-    "form": -0.2318,
+    "elo": 1555.8,
+    "attack": 0.6738,
+    "defense": 0.7754,
+    "form": -0.1623,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-11-08"
+    "rest_days": 12,
+    "last_match_date": "2026-11-20"
   },
   "汉堡": {
     "elo": 1470.5,
@@ -2457,13 +2457,13 @@
     "last_match_date": null
   },
   "西班牙人": {
-    "elo": 1531.3,
-    "attack": 0.4653,
-    "defense": 0.5912,
-    "form": -0.1143,
+    "elo": 1555.4,
+    "attack": 0.4551,
+    "defense": 0.5336,
+    "form": 0.22,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-11-07"
+    "rest_days": 13,
+    "last_match_date": "2026-11-20"
   },
   "桑普": {
     "elo": 1319.0,
@@ -3915,13 +3915,13 @@
     "last_match_date": "2026-11-20"
   },
   "芬洛": {
-    "elo": 1141.8,
-    "attack": 0.7576,
-    "defense": 1.8807,
-    "form": -0.9023,
+    "elo": 1138.3,
+    "attack": 0.6837,
+    "defense": 1.7325,
+    "form": -0.9316,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": null
+    "last_match_date": "2026-11-20"
   },
   "奈梅亨": {
     "elo": 1560.2,
@@ -5058,13 +5058,13 @@
     "last_match_date": "2026-10-18"
   },
   "特鲁瓦": {
-    "elo": 1323.8,
-    "attack": 0.6186,
-    "defense": 1.2539,
-    "form": -0.7952,
+    "elo": 1358.0,
+    "attack": 0.6638,
+    "defense": 1.1668,
+    "form": -0.2566,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-10-11"
+    "last_match_date": "2026-11-20"
   },
   "阿雅GFCO": {
     "elo": 1367.5,
@@ -5904,13 +5904,13 @@
     "last_match_date": null
   },
   "勒阿弗尔": {
-    "elo": 1455.0,
-    "attack": 0.5615,
-    "defense": 0.9584,
-    "form": -0.7487,
+    "elo": 1420.8,
+    "attack": 0.5419,
+    "defense": 0.9705,
+    "form": -0.8241,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-10-30"
+    "last_match_date": "2026-11-20"
   },
   "几内亚比绍": {
     "elo": 1407.4,
@@ -11016,13 +11016,13 @@
     "last_match_date": null
   },
   "吉达国民": {
-    "elo": 1519.5,
-    "attack": 0.8168,
-    "defense": 0.8292,
-    "form": 0.1221,
+    "elo": 1544.2,
+    "attack": 0.8427,
+    "defense": 0.7835,
+    "form": 0.3855,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-10-12"
+    "last_match_date": "2026-11-20"
   },
   "利雅得青年人": {
     "elo": 1407.7,
@@ -11115,13 +11115,13 @@
     "last_match_date": "2026-09-11"
   },
   "登博思": {
-    "elo": 1443.3,
-    "attack": 0.8145,
-    "defense": 0.8773,
-    "form": -0.1125,
+    "elo": 1446.8,
+    "attack": 0.7703,
+    "defense": 0.7918,
+    "form": 0.2213,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-11-14"
+    "rest_days": 6,
+    "last_match_date": "2026-11-20"
   },
   "达曼协作": {
     "elo": 1507.5,
@@ -11241,13 +11241,13 @@
     "last_match_date": "2026-11-08"
   },
   "利雅得胜利": {
-    "elo": 1534.9,
-    "attack": 0.89,
-    "defense": 0.8603,
-    "form": -0.1881,
+    "elo": 1510.2,
+    "attack": 0.8384,
+    "defense": 0.882,
+    "form": -0.4317,
     "injury": 0.0,
-    "rest_days": 10,
-    "last_match_date": "2026-09-15"
+    "rest_days": 14,
+    "last_match_date": "2026-11-20"
   },
   "哈萨征服": {
     "elo": 1486.8,
@@ -13441,6 +13441,24 @@
     "attack": 0.9377,
     "defense": 0.9377,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-20"
+  },
+  "比勒菲尔德": {
+    "elo": 1481.0,
+    "attack": 0.9377,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-20"
+  },
+  "马格德堡": {
+    "elo": 1519.0,
+    "attack": 0.9729,
+    "defense": 0.9377,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-11-20"
