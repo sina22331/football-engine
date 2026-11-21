@@ -684,13 +684,13 @@
     "last_match_date": "2026-11-08"
   },
   "罗马": {
-    "elo": 1869.7,
-    "attack": 1.1036,
-    "defense": 0.5562,
-    "form": 0.4225,
+    "elo": 1884.9,
+    "attack": 1.1719,
+    "defense": 0.5372,
+    "form": 0.5958,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-11-07"
+    "rest_days": 14,
+    "last_match_date": "2026-11-21"
   },
   "塞阿拉": {
     "elo": 1525.4,
@@ -1224,22 +1224,22 @@
     "last_match_date": "2026-11-01"
   },
   "摩纳哥": {
-    "elo": 1734.0,
-    "attack": 0.7842,
-    "defense": 0.6168,
-    "form": 0.183,
+    "elo": 1724.5,
+    "attack": 0.7429,
+    "defense": 0.5918,
+    "form": 0.1281,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-11-08"
+    "rest_days": 13,
+    "last_match_date": "2026-11-21"
   },
   "阿森纳": {
-    "elo": 2110.3,
-    "attack": 0.7772,
-    "defense": 0.2559,
-    "form": 0.926,
+    "elo": 2097.8,
+    "attack": 0.7718,
+    "defense": 0.3013,
+    "form": 0.6482,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-11-07"
+    "rest_days": 14,
+    "last_match_date": "2026-11-21"
   },
   "本菲卡": {
     "elo": 1921.0,
@@ -1674,13 +1674,13 @@
     "last_match_date": null
   },
   "塞维利亚": {
-    "elo": 1555.5,
-    "attack": 0.5731,
-    "defense": 0.7426,
-    "form": -0.158,
+    "elo": 1559.7,
+    "attack": 0.5524,
+    "defense": 0.7054,
+    "form": -0.1106,
     "injury": 0.0,
-    "rest_days": 5,
-    "last_match_date": "2026-11-06"
+    "rest_days": 14,
+    "last_match_date": "2026-11-21"
   },
   "拉努斯": {
     "elo": 1635.2,
@@ -1719,13 +1719,13 @@
     "last_match_date": "2026-10-30"
   },
   "斯图加特": {
-    "elo": 1769.9,
-    "attack": 0.7651,
-    "defense": 0.6025,
-    "form": 0.26,
+    "elo": 1760.8,
+    "attack": 0.6905,
+    "defense": 0.5438,
+    "form": 0.182,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-11-07"
+    "rest_days": 14,
+    "last_match_date": "2026-11-21"
   },
   "斯托克城": {
     "elo": 1478.9,
@@ -1836,13 +1836,13 @@
     "last_match_date": "2026-11-21"
   },
   "纽卡斯尔联": {
-    "elo": 1683.2,
-    "attack": 0.5178,
-    "defense": 0.6388,
-    "form": -0.3524,
+    "elo": 1695.7,
+    "attack": 0.5377,
+    "defense": 0.6469,
+    "form": -0.2467,
     "injury": 0.0,
-    "rest_days": 5,
-    "last_match_date": "2026-11-07"
+    "rest_days": 14,
+    "last_match_date": "2026-11-21"
   },
   "吉维森特": {
     "elo": 1516.7,
@@ -2709,13 +2709,13 @@
     "last_match_date": null
   },
   "帕尔马": {
-    "elo": 1489.5,
-    "attack": 0.4283,
-    "defense": 0.663,
-    "form": -0.3265,
+    "elo": 1474.3,
+    "attack": 0.4217,
+    "defense": 0.7743,
+    "form": -0.5285,
     "injury": 0.0,
-    "rest_days": 5,
-    "last_match_date": "2026-11-07"
+    "rest_days": 14,
+    "last_match_date": "2026-11-21"
   },
   "巴勒莫": {
     "elo": 1350.5,
@@ -3843,13 +3843,13 @@
     "last_match_date": "2026-11-16"
   },
   "皇家贝蒂斯": {
-    "elo": 1714.3,
-    "attack": 0.8501,
-    "defense": 0.7428,
-    "form": 0.3198,
+    "elo": 1710.1,
+    "attack": 0.8024,
+    "defense": 0.7056,
+    "form": 0.2239,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-11-08"
+    "rest_days": 13,
+    "last_match_date": "2026-11-21"
   },
   "布雷斯特": {
     "elo": 1490.3,
@@ -3978,13 +3978,13 @@
     "last_match_date": "2026-11-21"
   },
   "欧塞尔": {
-    "elo": 1561.7,
-    "attack": 0.7547,
-    "defense": 0.9558,
-    "form": -0.4663,
+    "elo": 1571.2,
+    "attack": 0.7163,
+    "defense": 0.8978,
+    "form": -0.3264,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-11-07"
+    "last_match_date": "2026-11-21"
   },
   "斯特拉斯堡": {
     "elo": 1545.8,
@@ -11529,13 +11529,13 @@
     "last_match_date": "2026-11-07"
   },
   "沙尔克": {
-    "elo": 1481.1,
-    "attack": 0.5127,
-    "defense": 0.6691,
-    "form": -0.6669,
+    "elo": 1490.2,
+    "attack": 0.4627,
+    "defense": 0.6039,
+    "form": -0.4668,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-11-08"
+    "rest_days": 13,
+    "last_match_date": "2026-11-21"
   },
   "德比郡": {
     "elo": 1501.7,

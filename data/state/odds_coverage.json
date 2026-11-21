@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-21T18:14:59",
+  "generated_at": "2026-11-21T23:15:16",
   "total_matches": 2039,
   "no_kickoff_time": 0,
   "snapshots": {
-    "mean": 3.65,
+    "mean": 3.66,
     "median": 3,
     "max": 17,
     "dist": {
-      "1": 309,
-      "2": 411,
-      "3": 472,
-      "4": 317,
+      "1": 301,
+      "2": 415,
+      "3": 475,
+      "4": 318,
       "5": 185,
       "6": 102,
       "7": 76,
@@ -26,11 +26,11 @@
     }
   },
   "multi_snapshot": {
-    "n": 1730,
-    "ratio": 0.8485
+    "n": 1738,
+    "ratio": 0.8524
   },
-  "odds_actually_moved": 1720,
-  "odds_flat": 319,
+  "odds_actually_moved": 1728,
+  "odds_flat": 311,
   "gap_hours": {
     "median": 4.17,
     "mean": 5.18,
@@ -39,22 +39,22 @@
   "lead_to_kickoff_hours": {
     "median_last": 10.64,
     "p10_last": 2.69,
-    "p90_last": 18.48,
-    "median_first": 23.47
+    "p90_last": 18.33,
+    "median_first": 23.33
   },
   "closing_coverage": {
     "window_h": 2.0,
     "n": 72,
     "ratio": 0.0361,
-    "assessable": 1993,
-    "pending_kickoff": 46,
+    "assessable": 1995,
+    "pending_kickoff": 44,
     "post_kickoff_last": 77,
     "stopped_before_kickoff": 1962
   },
   "near_close_coverage": {
     "window_h": 6.0,
     "n": 365,
-    "ratio": 0.1831
+    "ratio": 0.183
   },
   "last_collection_day_offset": {
     "0": 753,
