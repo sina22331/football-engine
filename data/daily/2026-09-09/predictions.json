@@ -5118,10 +5118,10 @@
     },
     "kelly_edge": -0.1288,
     "pnl": 0.0,
-    "actual_result": "6-3",
-    "actual_home_score": 6,
-    "actual_away_score": 3,
-    "direction_correct": true,
+    "actual_result": "1-4",
+    "actual_home_score": 1,
+    "actual_away_score": 4,
+    "direction_correct": false,
     "predicted_score": "0-0",
     "score_correct": false,
     "score_rank": 0,
@@ -5131,7 +5131,7 @@
     "djyy_score_rank": 0,
     "mc_score_rank": 0,
     "market_signal_dir": "home",
-    "market_signal_hit": true
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-09_周三012",

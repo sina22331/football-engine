@@ -63,7 +63,7 @@
     "half_away_score": 2
   },
   {
-    "match_id": "3748179",
+    "match_id": "周五005",
     "home_score": 1,
     "away_score": 0,
     "home_team": "登博思",
@@ -72,7 +72,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3763665",
+    "match_id": "周五006",
     "home_score": 1,
     "away_score": 1,
     "home_team": "拜仁慕尼黑",
@@ -81,7 +81,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3747059",
+    "match_id": "周五007",
     "home_score": 3,
     "away_score": 1,
     "home_team": "特鲁瓦",
@@ -90,12 +90,23 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3762791",
+    "match_id": "周五008",
     "home_score": 0,
     "away_score": 1,
     "home_team": "毕尔巴鄂",
     "away_team": "西班牙人",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "周五004",
+    "home_team": "比勒费",
+    "away_team": "马格德堡",
+    "home_score": 1,
+    "away_score": 2,
+    "competition": "德乙",
+    "match_date": "2026-11-20",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
