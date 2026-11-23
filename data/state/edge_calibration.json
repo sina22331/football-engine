@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:50:26",
+  "generated_at": "2026-11-23T19:31:50",
   "n_settled": 1376,
   "n_positive_edge": 123,
   "edge_buckets": [
@@ -30,10 +30,10 @@
     {
       "bucket": "[0.10,10.00)",
       "n": 83,
-      "actual_hit_rate": 0.3253,
+      "actual_hit_rate": 0.3133,
       "required_hit_rate": 0.3891,
-      "ev_gap": -0.0637,
-      "roi_proxy": -0.1639
+      "ev_gap": -0.0758,
+      "roi_proxy": -0.1948
     }
   ],
   "prob_buckets": [
@@ -48,10 +48,10 @@
     {
       "bucket": "[0.40,0.50)",
       "n": 484,
-      "actual_hit_rate": 0.4917,
+      "actual_hit_rate": 0.4897,
       "required_hit_rate": 0.5222,
-      "ev_gap": -0.0304,
-      "roi_proxy": -0.0583
+      "ev_gap": -0.0325,
+      "roi_proxy": -0.0622
     },
     {
       "bucket": "[0.50,0.60)",
