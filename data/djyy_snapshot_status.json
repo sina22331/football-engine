@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-23T19:29:38Z",
-  "at_epoch": 1795462178,
+  "at": "2026-11-24T23:54:47Z",
+  "at_epoch": 1795564487,
   "ok": true,
   "reason": "",
-  "matches": 120,
-  "with_odds": 117,
+  "matches": 98,
+  "with_odds": 98,
   "snapshot_age_h": 0.0,
   "base": "https://djyylive.com",
   "source": "ci"
