@@ -5877,22 +5877,22 @@
     "last_match_date": null
   },
   "鹿岛鹿角": {
-    "elo": 1570.0,
-    "attack": 0.7841,
-    "defense": 0.6853,
-    "form": 0.2743,
+    "elo": 1599.4,
+    "attack": 0.8132,
+    "defense": 0.6185,
+    "form": 0.492,
     "injury": 0.0,
-    "rest_days": 0,
-    "last_match_date": "2026-11-20"
+    "rest_days": 5,
+    "last_match_date": "2026-11-25"
   },
   "全北现代": {
-    "elo": 1529.9,
-    "attack": 0.5005,
-    "defense": 0.5144,
-    "form": -0.5888,
+    "elo": 1500.5,
+    "attack": 0.4517,
+    "defense": 0.5698,
+    "form": -0.7122,
     "injury": 0.0,
-    "rest_days": 1,
-    "last_match_date": "2026-11-09"
+    "rest_days": 14,
+    "last_match_date": "2026-11-25"
   },
   "马姆洛迪": {
     "elo": 1453.9,
@@ -10458,13 +10458,13 @@
     "last_match_date": "2026-11-21"
   },
   "大阪钢巴": {
-    "elo": 1457.5,
-    "attack": 0.6504,
-    "defense": 0.7147,
-    "form": -0.5075,
+    "elo": 1510.6,
+    "attack": 0.6636,
+    "defense": 0.5821,
+    "form": 0.2613,
     "injury": 0.0,
-    "rest_days": 13,
-    "last_match_date": "2026-11-21"
+    "rest_days": 0,
+    "last_match_date": "2026-11-25"
   },
   "奥斯": {
     "elo": 1452.0,
@@ -12213,13 +12213,13 @@
     "last_match_date": "2026-11-08"
   },
   "泰港": {
-    "elo": 1517.3,
-    "attack": 1.0926,
-    "defense": 1.114,
-    "form": 0.09,
+    "elo": 1491.2,
+    "attack": 0.9861,
+    "defense": 1.0758,
+    "form": -0.237,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-11-03"
+    "last_match_date": "2026-11-25"
   },
   "佩特捷德": {
     "elo": 1497.0,
@@ -13804,5 +13804,14 @@
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-11-23"
+  },
+  "曼谷港务": {
+    "elo": 1473.1,
+    "attack": 0.9025,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-25"
   }
 }

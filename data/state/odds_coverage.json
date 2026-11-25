@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-24T23:55:04",
-  "total_matches": 2096,
+  "generated_at": "2026-11-25T18:50:05",
+  "total_matches": 2117,
   "no_kickoff_time": 0,
   "snapshots": {
-    "mean": 3.6,
+    "mean": 3.58,
     "median": 3,
     "max": 17,
     "dist": {
-      "1": 341,
-      "2": 431,
+      "1": 353,
+      "2": 440,
       "3": 476,
       "4": 318,
       "5": 185,
@@ -26,41 +26,41 @@
     }
   },
   "multi_snapshot": {
-    "n": 1755,
-    "ratio": 0.8373
+    "n": 1764,
+    "ratio": 0.8333
   },
-  "odds_actually_moved": 1745,
-  "odds_flat": 351,
+  "odds_actually_moved": 1754,
+  "odds_flat": 363,
   "gap_hours": {
-    "median": 4.18,
-    "mean": 5.25,
-    "p90": 10.46
+    "median": 4.2,
+    "mean": 5.27,
+    "p90": 10.56
   },
   "lead_to_kickoff_hours": {
-    "median_last": 10.81,
-    "p10_last": 2.75,
-    "p90_last": 20.75,
-    "median_first": 23.62
+    "median_last": 10.84,
+    "p10_last": 2.78,
+    "p90_last": 21.83,
+    "median_first": 23.77
   },
   "closing_coverage": {
     "window_h": 2.0,
     "n": 72,
-    "ratio": 0.0349,
-    "assessable": 2063,
-    "pending_kickoff": 33,
+    "ratio": 0.0348,
+    "assessable": 2071,
+    "pending_kickoff": 46,
     "post_kickoff_last": 77,
-    "stopped_before_kickoff": 2019
+    "stopped_before_kickoff": 2040
   },
   "near_close_coverage": {
     "window_h": 6.0,
     "n": 365,
-    "ratio": 0.1769
+    "ratio": 0.1762
   },
   "last_collection_day_offset": {
     "0": 753,
     "1": 1232,
-    "2": 100,
-    "3": 11
+    "2": 123,
+    "3": 9
   },
   "by_kickoff_hour": {
     "0": {
@@ -68,19 +68,19 @@
       "median_lead": 9.5
     },
     "1": {
-      "n": 173,
-      "median_lead": 10.72
+      "n": 178,
+      "median_lead": 10.75
     },
     "2": {
       "n": 258,
       "median_lead": 11.53
     },
     "3": {
-      "n": 376,
-      "median_lead": 12.83
+      "n": 380,
+      "median_lead": 12.86
     },
     "4": {
-      "n": 125,
+      "n": 135,
       "median_lead": 16.41
     },
     "5": {
@@ -100,7 +100,7 @@
       "median_lead": 18.0
     },
     "9": {
-      "n": 10,
+      "n": 11,
       "median_lead": 18.33
     },
     "10": {
@@ -128,7 +128,7 @@
       "median_lead": 0.61
     },
     "16": {
-      "n": 23,
+      "n": 24,
       "median_lead": 2.06
     },
     "17": {
