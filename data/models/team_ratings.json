@@ -1350,13 +1350,13 @@
     "last_match_date": null
   },
   "威廉二世": {
-    "elo": 1210.9,
-    "attack": 0.6006,
-    "defense": 1.1243,
-    "form": -0.7668,
+    "elo": 1221.2,
+    "attack": 0.5772,
+    "defense": 1.0499,
+    "form": -0.5368,
     "injury": 0.0,
-    "rest_days": 1,
-    "last_match_date": "2026-11-23"
+    "rest_days": 4,
+    "last_match_date": "2026-11-27"
   },
   "PSV埃因霍温": {
     "elo": 1799.6,
@@ -1377,13 +1377,13 @@
     "last_match_date": "2026-11-23"
   },
   "格罗宁根": {
-    "elo": 1412.3,
-    "attack": 0.876,
-    "defense": 1.0711,
-    "form": -0.7344,
+    "elo": 1402.0,
+    "attack": 0.8258,
+    "defense": 1.0019,
+    "form": -0.5141,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-11-23"
+    "rest_days": 4,
+    "last_match_date": "2026-11-27"
   },
   "阿贾克斯": {
     "elo": 1794.1,
@@ -1755,13 +1755,13 @@
     "last_match_date": "2026-09-20"
   },
   "桑德兰": {
-    "elo": 1655.4,
-    "attack": 0.4293,
-    "defense": 0.5528,
-    "form": 0.0345,
+    "elo": 1646.4,
+    "attack": 0.4226,
+    "defense": 0.5341,
+    "form": 0.0242,
     "injury": 0.0,
-    "rest_days": 13,
-    "last_match_date": "2026-11-21"
+    "rest_days": 5,
+    "last_match_date": "2026-11-26"
   },
   "斯旺西": {
     "elo": 1411.1,
@@ -5274,13 +5274,13 @@
     "last_match_date": "2026-11-14"
   },
   "纽伦堡": {
-    "elo": 1513.8,
-    "attack": 0.7869,
-    "defense": 1.0328,
-    "form": 0.2636,
+    "elo": 1485.1,
+    "attack": 0.7454,
+    "defense": 1.0377,
+    "form": -0.1155,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-10-16"
+    "last_match_date": "2026-11-27"
   },
   "杜塞多夫": {
     "elo": 1444.3,
@@ -6633,13 +6633,13 @@
     "last_match_date": "2026-11-23"
   },
   "海登海姆": {
-    "elo": 1449.6,
-    "attack": 0.8543,
-    "defense": 1.3207,
-    "form": -0.2386,
+    "elo": 1478.3,
+    "attack": 0.8766,
+    "defense": 1.2271,
+    "form": 0.133,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-10-09"
+    "last_match_date": "2026-11-27"
   },
   "雷克维京": {
     "elo": 1424.0,
@@ -12690,13 +12690,13 @@
     "last_match_date": "2026-11-20"
   },
   "麦克阿瑟FC": {
-    "elo": 1528.1,
-    "attack": 0.8628,
-    "defense": 0.799,
-    "form": 0.447,
+    "elo": 1547.9,
+    "attack": 0.849,
+    "defense": 0.7211,
+    "form": 0.6129,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-11-23"
+    "rest_days": 4,
+    "last_match_date": "2026-11-27"
   },
   "珀斯光荣": {
     "elo": 1528.9,
@@ -12942,13 +12942,13 @@
     "last_match_date": "2026-10-20"
   },
   "墨尔本城": {
-    "elo": 1504.9,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1461.2,
+    "attack": 0.7638,
+    "defense": 0.8976,
+    "form": -0.51,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-10-24"
+    "rest_days": 0,
+    "last_match_date": "2026-11-27"
   },
   "Frosinone": {
     "elo": 1544.3,
@@ -13819,6 +13819,24 @@
     "attack": 0.9377,
     "defense": 1.1488,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-26"
+  },
+  "麦克阿瑟": {
+    "elo": 1523.9,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-11-27"
+  },
+  "雅盖隆": {
+    "elo": 1509.0,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-11-26"
